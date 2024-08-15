@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "162270",
+      "title": "Rubicon Run",
+      "description": "06/26/24",
+      "duration": "355",
+      "thumbURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162270\/0162270__015f.jpg",
+      "imgURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162270\/0162270__015f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162270\/D8HFLX0AC.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341",
+      "recommendations": [
+        "162269",
+        "162266",
+        "162265",
+        "162264"
+      ]
+    },
+    {
+      "id": "162269",
+      "title": "Mojave Madness",
+      "description": "06/07/24",
+      "duration": "150",
+      "thumbURL": "http:\/\/l1.cdn01.net\/_thumbs\/0000162\/0162269\/0162269__015f.jpg",
+      "imgURL": "http:\/\/l1.cdn01.net\/_thumbs\/0000162\/0162269\/0162269__015f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162269\/G1DIZA186.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "162266",
+      "title": "Moab Mission",
+      "description": "06/06/24",
+      "duration": "168",
+      "thumbURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162266\/0162266__001f.jpg",
+      "imgURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162266\/0162266__001f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162266\/D8HF8X0AI.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "162265",
+      "title": "Black Bear Blitz",
+      "description": "05/10/24",
+      "duration": "583",
+      "thumbURL": "http:\/\/l1.cdn01.net\/_thumbs\/0000162\/0162265\/0162265__001f.jpg",
+      "imgURL": "http:\/\/l1.cdn01.net\/_thumbs\/0000162\/0162265\/0162265__001f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162265\/F0CAMG1JJ.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "162264",
+      "title": "Glacier Gridlock",
+      "description": "12/14/23",
+      "duration": "324",
+      "thumbURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000162\/0162264\/0162264__016f.jpg",
+      "imgURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000162\/0162264\/0162264__016f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162264\/K32HF90CB.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "162262",
+      "title": "Appalachian Ascent",
+      "description": "08/26/23",
+      "duration": "333",
+      "thumbURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162262\/0162262__016f.jpg",
+      "imgURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000162\/0162262\/0162262__016f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000162\/0162262\/L6IZSM1PM.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "My GPS Trail Logs"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "112676",
+      "title": "Fordyce Creek Trail",
+      "description": "Truckee, California",
+      "duration": "766",
+      "thumbURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000112\/0112676\/0112676__001f.jpg",
+      "imgURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000112\/0112676\/0112676__001f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000112\/0112676\/F0CCZG1Z8.mp4?source=firetv&channel_id=6338",
+      "categories": [
+        "Jeep Brand Trails"
+      ],
+      "channel_id": "6338"
+    },
+    {
+      "id": "109344",
+      "title": "The Maze",
+      "description": "Canyonlands National Park, Utah",
+      "duration": "43",
+      "thumbURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000109\/0109344\/0109344__001f.jpg",
+      "imgURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000109\/0109344\/0109344__001f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000109\/0109344\/I6K7GC0GX.mp4?source=firetv&channel_id=6326",
+      "categories": [
+        "Jeep Brand Trails"
+      ],
+      "channel_id": "6326"
+    },
+    {
+      "id": "99586",
+      "title": "Sand Hollow",
+      "description": "Sand Hollow State Park, Utah",
+      "duration": "423",
+      "thumbURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000099\/0099586\/0099586__005f.jpg",
+      "imgURL": "http:\/\/l2.cdn01.net\/_thumbs\/0000099\/0099586\/0099586__005f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_640k\/0000099\/0099586\/S6IQUL1SQ.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "Jeep Brand Trails"
+      ],
+      "channel_id": "6341"
+    },
+    {
+      "id": "112683",
+      "title": "Jackson Hole",
+      "description": "Jackson Hole, Wyoming",
+      "duration": "581",
+      "thumbURL": "http:\/\/l3.cdn01.net\/_thumbs\/0000112\/0112683\/0112683__010f.jpg",
+      "imgURL": "http:\/\/l3.cdn01.net\/_thumbs\/0000112\/0112683\/0112683__010f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_1880k\/0000112\/0112683\/94OOIH0AB.mp4?source=firetv&channel_id=6340",
+      "categories": [
+        "Jeep Brand Trails"
+      ],
+      "channel_id": "6340"
+    },
+    {
+      "id": "99580",
+      "title": "Land Between the Lakes",
+      "description": "Land Between the Lakes National Recreation Area",
+      "duration": "355",
+      "thumbURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000099\/0099580\/0099580__005f.jpg",
+      "imgURL": "http:\/\/l4.cdn01.net\/_thumbs\/0000099\/0099580\/0099580__005f.jpg",
+      "videoURL": "http:\/\/media.cdn01.net\/802E1F\/process\/encoded\/video_640k\/0000099\/0099580\/M0C86F1MX.mp4?source=firetv&channel_id=6341",
+      "categories": [
+        "Jeep Brand Trails"
+      ],
+      "channel_id": "6341"
+    }
+  ]
+}
